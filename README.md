@@ -1,2 +1,2 @@
-# Práctica 1 `design pattern`
+# Práctica 1 `Design patterns`
 Tarea para Ingeniería del Software Avanzada sobre Patrones de Diseño `I`
