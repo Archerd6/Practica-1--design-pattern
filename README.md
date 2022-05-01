@@ -11,3 +11,5 @@ Tarea para Ingeniería del Software Avanzada sobre Patrones de Diseño `I`
 
 <br>
 
+
+Proyecto que recrea la estructura de un cliente de correo (usando el patrón de diseño que consideremos mas acertado)
